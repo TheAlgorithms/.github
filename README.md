@@ -1,6 +1,6 @@
 # .github
 
-## Intrduction
+## Introduction
 Default files for [@TheAlgorithms](https://github.com/TheAlgorithms) repositories.
 
 GitHub will use and display default files for any public repository in [@TheAlgorithms](https://github.com/TheAlgorithms) organization that does not have its own file of that type in any of the following places:
