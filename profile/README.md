@@ -7,9 +7,6 @@
 <a href="https://discord.gg/c7MnfGFGa6" alt="Chat on Discord">
    <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=00d37d" target="blank" />
 </a>
-<a href="https://gitter.im/TheAlgorithms" alt="Chat on Gitter">
-  <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter" target="blank" />
-</a>
 
 <br>
 
