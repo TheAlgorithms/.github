@@ -1,4 +1,4 @@
-# .github
+# gh-main
 
 ## Introduction
 Default files for [@TheAlgorithms](https://github.com/TheAlgorithms) repositories.
