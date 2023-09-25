@@ -16,7 +16,7 @@
 <a href= "https://github.com/TheAlgorithms" alt="Total Stars">
   <img src = "https://img.shields.io/github/stars/TheAlgorithms?style=social" target="blank" />
 </a>
-<a href="https://twitter.com/The_Algorithms" alt="Twitter">
+<a href="https://twitter.com/The_Algorithms" alt="X">
   <img src="https://img.shields.io/twitter/follow/The_Algorithms?label=Follow us&style=social" />
 </a>
 </p>
